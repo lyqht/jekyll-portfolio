@@ -1,6 +1,5 @@
 ---
 title: Allegro
-author: Merrick, T3
 excerpt: Kivy & Python Project to make a basic GUI that syncs real-time data from temperature, humidity and ambient light sensors from Firebase and displays it to the user.
 header:
   overlay_color: "#000"

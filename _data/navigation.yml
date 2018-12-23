@@ -1,14 +1,15 @@
 # main links
 # can add description key if necessary
 main:
+  - title: "About"
+    url: /about/
   - title: "Art"
-    image: /assets/art_icon.png
     url: /art/
+    image_path: /assets/art_icon.png
     description: "Done using mostly Adobe Photoshop, Illustrator & Indesign CC"
   - title: "Programming"
     url: /programming/
+    image_path: /assets/programming_icon.png
   # Photography in construction
   # - title: "Photography"
   #   url: /photography/
-  - title: "About"
-    url: /about/

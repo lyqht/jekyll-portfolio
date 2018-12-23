@@ -24,9 +24,8 @@ gallery:
     title: "Image 3 title caption"
 ---
 Designed 1 advert poster & 3 main posters for the Exhibition.
+## Main Posters
+{% include gallery %}
 
 ## Advert poster
 <a href="/assets/art/mini_ewaste/Ewaste1.jpg" ><img src="/assets/art/mini_ewaste/Ewaste1.jpg" width="50%" ></a>
-
-## Main Posters
-{% include gallery %}

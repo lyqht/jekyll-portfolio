@@ -1,7 +1,7 @@
 Merrick:
   name        : "Merrick Tay Yu Jie"
   bio         : "Apopcalypse-san"
-  avatar      : "/assets/images/bio-photo.jpg"
+  avatar      : "/assets/user_icon.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -12,7 +12,7 @@ Merrick:
 T3:
   name        : "Tan Tiang Teck"
   bio         : "T3"
-  avatar      : "/assets/images/bio-photo.jpg"
+  avatar      : "/assets/user_icon.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -23,7 +23,7 @@ T3:
 SALTY:
   name: "Stephanie Lim Tian Yuan"
   bio         : "She's born in the salt"
-  avatar      : "/assets/images/bio-photo.jpg"
+  avatar      : "/assets/user_icon.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -31,7 +31,7 @@ SALTY:
 GuiAn:
   name        : "Lee Gui An"
   bio         : "Comrade Programmer"
-  avatar      : "/assets/images/bio-photo.jpg"
+  avatar      : "/assets/user_icon.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -42,7 +42,7 @@ GuiAn:
 Kundan:
   name        : "Kundan Dalmia"
   bio         : "Comrade Programmer"
-  avatar      : "/assets/images/bio-photo.jpg"
+  avatar      : "/assets/user_icon.png"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -50,7 +50,7 @@ Kundan:
 XiaoMeng:
   name        : "Xiao Meng"
   bio         : "Comrade Programmer"
-  avatar      : "/assets/images/bio-photo.jpg"
+  avatar      : "/assets/user_icon.png"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -58,7 +58,7 @@ XiaoMeng:
 LimTheckSean:
   name        : "Lim Theck Sean"
   bio         : "Comrade Programmer"
-  avatar      : "/assets/images/bio-photo.jpg"
+  avatar      : "/assets/user_icon.png"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -66,7 +66,7 @@ LimTheckSean:
 GongChen:
   name        : "Gong Chen"
   bio         : "Comrade Programmer"
-  avatar      : "/assets/images/bio-photo.jpg"
+  avatar      : "/assets/user_icon.png"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -74,7 +74,7 @@ GongChen:
 Nath:
   name        : "Nath Marooth Chaowanastier"
   bio         : "Comrade Programmer"
-  avatar      : "/assets/images/bio-photo.jpg"
+  avatar      : "/assets/user_icon.png"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
