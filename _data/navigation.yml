@@ -2,6 +2,7 @@
 # can add description key if necessary
 main:
   - title: "Art"
+    image: /assets/art_icon.png
     url: /art/
     description: "Done using mostly Adobe Photoshop, Illustrator & Indesign CC"
   - title: "Programming"

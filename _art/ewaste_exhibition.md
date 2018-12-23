@@ -1,6 +1,12 @@
 ---
 title: Mini E-waste Exhibition
-exercept: Greenprint poster exhibition on e-waste @ SUTD
+excerpt: Greenprint poster exhibition on e-waste @ SUTD
+header:
+  teaser: /assets/art/mini_ewaste/Ewaste2.jpg
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/art/mini_ewaste/overlay_ewaste.png
+  caption: "Photo credit: [**Recycle Coach**](https://recyclecoach.com/blog/item?id=104)"
 classes:
   - wide
 gallery:

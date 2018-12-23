@@ -281,20 +281,31 @@ collections:
   art:
     output: true
     permalink: /:collection/:path/
+    image: /assets/art_icon.png
   photography:
     output: true
     permalink: /:collection/:path/
   programming:
     output: true
     permalink: /:collection/:path/
+    image: /assets/programming_icon.png
 
 
 # Defaults
 defaults:
-  # _posts
   - scope:
       path: ""
-      type: collections
+      type: art
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+  - scope:
+      path: ""
+      type: programming
     values:
       layout: single
       author_profile: true
