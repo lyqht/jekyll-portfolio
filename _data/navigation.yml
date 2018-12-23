@@ -7,7 +7,8 @@ main:
     description: "Done using mostly Adobe Photoshop, Illustrator & Indesign CC"
   - title: "Programming"
     url: /programming/
-  - title: "Photography"
-    url: /photography/
+  # Photography in construction
+  # - title: "Photography"
+  #   url: /photography/
   - title: "About"
     url: /about/
