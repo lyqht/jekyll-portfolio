@@ -1,9 +1,10 @@
 ---
 title: RIOT & TEAM SUTD
-layout: single
-exercept: SUTD Mega Sports Event & Nerf War!
+excerpt: SUTD Mega Sports Event & Nerf War!
 header:
- - image: /assets/art/RIOT/overlay_sutdsports.jpg
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/art/RIOT/overlay_sutdsports.jpg
 classes:
   - wide
 
@@ -27,17 +28,19 @@ gallery:
 SUTD Sport Core plans to organise the largest Nerf War in SUTD, RIOT, an event where all students will be able to join and interact with one another. This event also aims to promote the multiple sports Fifth Rows in the school which represent TEAM SUTD in inter-school and national tournaments to make the student life in SUTD a lot more vibrant.
 
 I was approached by their cluster representative to design:
-- Banners for TEAM SUTD:
-  1. A feather banner
-  2. A 400cm x 200cm banner
-- RIOT
-  3. Logo
-  4. T-shirts
+
+Banners for TEAM SUTD:
+  - A feather banner
+  - A 400cm x 200cm banner
+
+RIOT
+  - Logo
+  - T-shirts
 
 The banners for Team SUTD will be used for general sports events.
 
-# Team SUTD Feather Banner
-## Specifications
+## Team SUTD Feather Banner
+### Specifications
 <figure class="half">
     <a href="/assets/art/RIOT/featherbannerspecs_1.jpg"><img src="/assets/art/RIOT/featherbannerspecs_1.jpg"></a>
     <a href="/assets/art/RIOT/featherbannerspecs_2.jpg"><img src="/assets/art/RIOT/featherbannerspecs_2.jpg"></a>
@@ -52,6 +55,6 @@ The banners for Team SUTD will be used for general sports events.
 <a href="/assets/art/RIOT/FeatherBanner2a.png"><img src="/assets/art/RIOT/FeatherBanner2a.png" width="20%"></a>
 <a href="/assets/art/RIOT/FeatherBanner2b.png"><img src="/assets/art/RIOT/FeatherBanner2b.png" width="20%"></a>
 
-# The RIOT Logo
+## The RIOT Logo
 I made 3 iterations of the logo design, as the consensus of what RIOT should represent is split in 2. There were some that preferred a very cool logo that resembled First Player Shooter Games while there were others prefer a more simple & elegant logo.
 {% include gallery %}

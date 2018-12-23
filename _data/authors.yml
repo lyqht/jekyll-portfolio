@@ -1,0 +1,81 @@
+Merrick:
+  name        : "Merrick Tay Yu Jie"
+  bio         : "Apopcalypse-san"
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:merrick_tay@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/flyingfactory"
+T3:
+  name        : "Tan Tiang Teck"
+  bio         : "T3"
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:battlescape@yahoo.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url: ""
+SALTY:
+  name: "Stephanie Lim Tian Yuan"
+  bio         : "She's born in the salt"
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:stephanie@yahoo.com"
+GuiAn:
+  name        : "Lee Gui An"
+  bio         : "Comrade Programmer"
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:piroton@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/piroton"
+Kundan:
+  name        : "Kundan Dalmia"
+  bio         : "Comrade Programmer"
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/kundanda"
+XiaoMeng:
+  name        : "Xiao Meng"
+  bio         : "Comrade Programmer"
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jody1999"
+LimTheckSean:
+  name        : "Lim Theck Sean"
+  bio         : "Comrade Programmer"
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/limsean"
+GongChen:
+  name        : "Gong Chen"
+  bio         : "Comrade Programmer"
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/gcgloven"
+Nath:
+  name        : "Nath Marooth Chaowanastier"
+  bio         : "Comrade Programmer"
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mcnath"
