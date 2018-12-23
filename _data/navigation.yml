@@ -1,0 +1,12 @@
+# main links
+# can add description key if necessary
+main:
+  - title: "Art"
+    url: /art/
+    description: "Done using mostly Adobe Photoshop, Illustrator & Indesign CC"
+  - title: "Programming"
+    url: /programming/
+  - title: "Photography"
+    url: /photography/
+  - title: "About"
+    url: /about/
