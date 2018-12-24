@@ -2,7 +2,6 @@
 title: Mini E-waste Exhibition
 excerpt: Greenprint poster exhibition on e-waste @ SUTD
 header:
-  teaser: /assets/art/mini_ewaste/Ewaste2.jpg
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/art/mini_ewaste/overlay_ewaste.png
