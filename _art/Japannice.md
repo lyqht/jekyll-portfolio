@@ -4,7 +4,7 @@ excerpt: Exhibition for clubs related to Japanese Culture @ SUTD
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/art/mini_ewaste/overlay_ewaste.png
+  overlay_image: /assets/art/Japannice/Japan.png
 classes:
   - wide
 ---
