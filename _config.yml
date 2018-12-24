@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Loving the Lights"
+title                    : "Playing with Lights"
 title_separator          : "|"
 name                     : "Estee Tey Siew Wen"
 description              : "Jekyll-themed APP: About. Portfolio. Projects. "
@@ -25,7 +25,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "lyqht/lyqht.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 100
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
@@ -139,7 +139,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/lyqht"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       url: "https://github.com/lyqht"
@@ -281,20 +281,31 @@ collections:
   art:
     output: true
     permalink: /:collection/:path/
+    image: /assets/art_icon.png
   photography:
     output: true
     permalink: /:collection/:path/
   programming:
     output: true
     permalink: /:collection/:path/
+    image: /assets/programming_icon.png
 
 
 # Defaults
 defaults:
-  # _posts
   - scope:
       path: ""
       type: art
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+  - scope:
+      path: ""
+      type: programming
     values:
       layout: single
       author_profile: true
